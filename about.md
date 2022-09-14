@@ -1,3 +1,3 @@
-#About Us
+# About Us
 
-##I wish i could code in HTML
+## I wish i could code in HTML
