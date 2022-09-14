@@ -1,6 +1,7 @@
-[Home](./idex.md)
-[product page](./product.md)
-[contact us](./contact.md)
+## Navigation
+[Home -](./index.md)
+[Product page -](./product.md)
+[Contact us](./contact.md)
 
 # About Us
 
