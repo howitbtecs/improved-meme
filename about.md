@@ -1,4 +1,4 @@
-[Home](./idex.md)
+[Home](./index.md)
 [product page](./product.md)
 [contact us](./contact.md)
 
