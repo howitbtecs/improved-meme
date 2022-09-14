@@ -1,3 +1,7 @@
+## The best tech website
+
 ## Navigation
 
-[text](about.md)
+[about](./about.md)
+[product page](./product.md)
+[contact us](./contact.md)
